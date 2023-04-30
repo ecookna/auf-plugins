@@ -1,0 +1,20 @@
+{
+  "name": "windowbuilder-parametric",
+  "description": "Parametric orders for windowbuilder project",
+  "version": "2.1.260",
+  "author": "Evgeniy Malyarov <info@oknosoft.ru> (http://www.oknosoft.ru)",
+  "license": "SEE LICENSE IN LICENSE",
+  "files": [
+    "server/**",
+    "LICENSE",
+    "LICENSE.ru.md"
+  ],
+  "main": "server/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "http://www.oknosoft.ru/zd/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oknosoft/windowbuilder-parametric.git"
+  }
+}
